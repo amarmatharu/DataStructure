@@ -1,7 +1,6 @@
 package com.amar.queue;
 
 public class QueueX {
-
     private int front;
     private int rear;
     private int[] q;
